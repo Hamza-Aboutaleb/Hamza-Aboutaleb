@@ -37,5 +37,4 @@ Graduation: May 2026
 [<img align="left" alt="Hamza Aboutaleb | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
 [<img align="left" alt="Hamza Aboutaleb | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[linkedin]: https://www.linkedin.com/in/ 
-[instagram]: https://www.instagram.com/ 
+[linkedin]: https://www.linkedin.com/in/  [instagram]: https://www.instagram.com/habutalebb/
